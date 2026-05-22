@@ -2,6 +2,12 @@
 using namespace std;
 // adding main comment '
 
+// making a conflict 
+
+// this is cherry pick comment
+
+int lcsRec(string &s1, string &s2,int m,int n) {
+
  // this is a comment 
 
  int lcsRec(string &s1, string &s2,int m,int n) {

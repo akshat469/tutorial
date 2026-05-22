@@ -11,9 +11,12 @@ int main() {
     int d = 123;
     cout<<c<<endl;
     cout<<d<<endl;
+<<<<<<< HEAD
     // added these for no reasons
     int a = 10;
     int b = 20;
+=======
+>>>>>>> 35997c4 (changes c and d)
 
     long long n;
 	if (!(cin >> n)) return 0;
