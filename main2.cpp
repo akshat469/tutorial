@@ -10,8 +10,11 @@ int main() {
     int d = 123;
     cout<<c<<endl;
     cout<<d<<endl;
+    // added these for no reasons
+    int a = 10;
+    int b = 20;
 
-	long long n;
+    long long n;
 	if (!(cin >> n)) return 0;
 	if (n < 0) {
 		cout << "0"<<endl;
