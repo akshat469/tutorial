@@ -1,6 +1,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
+// adding comment here 
 
 int main() {
 	ios::sync_with_stdio(false);
@@ -33,3 +34,6 @@ int main() {
 	cout << dp[n] << endl;
 	return 0;
 }
+
+// just adding footer in here 
+// these are the footers
