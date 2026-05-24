@@ -5,6 +5,11 @@ using namespace std;
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
+    // fabulous coding 
+    int c =0;
+    int d = 123;
+    cout<<c<<endl;
+    cout<<d<<endl;
     // added these for no reasons
     int a = 10;
     int b = 20;
