@@ -14,7 +14,7 @@ int lcsRec(string &s1, string &s2,int m,int n) {
     
     if (m == 0 || n == 0)
         return 0;
-
+// lsdfnadskln
     if (s1[m - 1] == s2[n - 1])
       
         return 1 + lcsRec(s1, s2, m - 1, n - 1);
@@ -37,6 +37,7 @@ void solve(){
 
     cout << lcs(s1, s2) << endl;
 
+ // this is change
 
 }
 int main() {
@@ -46,3 +47,4 @@ int main() {
     }
     return 0;
 }
+// adding footer 
